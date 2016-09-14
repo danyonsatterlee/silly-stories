@@ -25,3 +25,12 @@ text-align: center;
 .a2a_kit {
  text-align:center;
 }
+
+#show-story-btn {
+  -webkit-animation-duration: 0.02s;
+  /*-vendor-animation-delay: 2s;*/
+  -webkit-animation-iteration-count: 3;
+  -moz-animation-iteration-count: 3;
+  -o-animation-iteration-count: 3;
+  -ms-animation-iteration-count: 3;
+}
