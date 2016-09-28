@@ -9,6 +9,16 @@ h1 {
     margin: 10px;
 }
 
+h2 {
+    color: rgb(8, 8, 1);
+    font-family: "Bungee Shade", cursive;
+    text-align: center;
+    margin: 10px;
+}
+
+
+
+
 .btn{
     font-family: "Bungee Shade", cursive;
     font-size: 15px;
@@ -20,17 +30,36 @@ p{
 color: rgb(8, 8, 1);
 text-align: center;
 
+
 }
 
-.a2a_kit {
- text-align:center;
+h3{
+
+color: rgb(8, 8, 1);
+text-align: center;
+font-size: 20px;
+
 }
 
-#show-story-btn {
+#story{
+  margin-top: 20px;
+  padding: 10px;
+  background-color: rgb(255, 255, 255);
+
+   border-radius: 5px;
+
+}
+
+
+
+
+
+
+/*#show-story-btn {
   -webkit-animation-duration: 0.02s;
   /*-vendor-animation-delay: 2s;*/
-  -webkit-animation-iteration-count: 3;
+  /*-webkit-animation-iteration-count: 3;
   -moz-animation-iteration-count: 3;
   -o-animation-iteration-count: 3;
   -ms-animation-iteration-count: 3;
-}
+}*/
